@@ -95,5 +95,6 @@ public class EmployeeFormController {
         txtName.clear();
         txtAddress.clear();
         txtPosition.clear();
+        System.out.println("this is for commit");
     }
 }
